@@ -1,4 +1,4 @@
-#🛍️ Customer Shopping Behavior Analysis
+🛍️ Customer Shopping Behavior Analysis
 
 📌 Overview
 This project analyzes customer shopping behavior to uncover patterns in purchasing habits, spending, subscription trends, product performance, and customer segmentation.
